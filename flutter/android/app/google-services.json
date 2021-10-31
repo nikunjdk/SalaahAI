@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "383627769345",
+    "project_id": "salahml-fb619",
+    "storage_bucket": "salahml-fb619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383627769345:android:131f5c13e9a57134a4b200",
+        "android_client_info": {
+          "package_name": "com.example.salahml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383627769345-h4sq91cag16vuut25h9qq55m82kavdjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salahml",
+            "certificate_hash": "8b045abda06c8a0995b6f0a5602163a5aa7ed547"
+          }
+        },
+        {
+          "client_id": "383627769345-5385kgks9ff3rs4jok9bh19t6c2oho05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKmlTziERB1kuWU6KfsgoxgknuPsMtvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383627769345-5385kgks9ff3rs4jok9bh19t6c2oho05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
